@@ -1,0 +1,20 @@
+[
+ {
+     "id":1,
+     "fName":"Sufyan",
+     "lName":"Khan"
+ },
+ {
+    "id":2,
+    "fName":"Numan",
+    "lName":"Khan"
+},{
+    "id":3,
+    "fName":"Adullah",
+    "lName":"Khan"
+},{
+    "id":4,
+    "fName":"Awais",
+    "lName":"Khan"
+}
+]
